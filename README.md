@@ -4,3 +4,8 @@ The sequence is similar to the path in ROAS. So I used this method to build a gl
 After that, I convert every path into weights. Then I used the non-null data to train a regression model and generate pseudo labels for null data.
 Lastly, I use every data to train the model again.
 
+I provide different version of my report including:
+ROAS.html
+ROAS.ipynb
+ROAS.md
+ROAS.pdf
