@@ -5,7 +5,7 @@ After that, I convert every path into weights. Then I used the non-null data to 
 Lastly, I use every data to train the model again.
 
 I provide different version of my report including:
-ROAS.html
-ROAS.ipynb
-ROAS.md
-ROAS.pdf
+- ROAS.html
+- ROAS.ipynb
+- ROAS.md
+- ROAS.pdf
